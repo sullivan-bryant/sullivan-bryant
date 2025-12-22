@@ -1,16 +1,17 @@
-## Hi there 👋
+## Sullivan Bryant
+Biomedical Engineering (Computational Bioengineering) @ University of Iowa
 
-<!--
-**sullivan-bryant/sullivan-bryant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Latest Project – GiftWise
+- Authorization, invitations, event collaborations
+- Recipient visibility/permissions
+- Gift ideas + purchased tracking
+- Postgres (deployment) -> Heroku
+- SQLite (development)
 
-Here are some ideas to get you started:
+## Other Projects
+- Senior Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: [Click to Visit](linkedin.com/in/sullivan-bryant)
+- Email: sullivan.bryant1@outlook.com
+
