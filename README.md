@@ -12,6 +12,6 @@ Biomedical Engineering (Computational Bioengineering) @ University of Iowa
 - Senior Design
 
 ## Contact
-- LinkedIn: [Click to Visit](linkedin.com/in/sullivan-bryant)
+- LinkedIn: [Click to Visit](https://www.linkedin.com/in/sullivan-bryant)
 - Email: sullivan.bryant1@outlook.com
 
