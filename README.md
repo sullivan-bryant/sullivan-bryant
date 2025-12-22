@@ -9,7 +9,7 @@ Biomedical Engineering (Computational Bioengineering) @ University of Iowa
 - SQLite (development)
 
 ## Other Projects
-- Senior Design
+- [Senior Design (Embedded System)](https://github.com/sullivan-bryant/senior-design-project.git)
 
 ## Contact
 - LinkedIn: [Click to Visit](https://www.linkedin.com/in/sullivan-bryant)
